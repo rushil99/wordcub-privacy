@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Privacy Policy — Word Cub</title>
+  <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'DM Sans', sans-serif;
+      font-weight: 400;
+      background: #FDFAF5;
+      color: #2C2A24;
+      min-height: 100vh;
+    }
+
+    header {
+      background: #2C2A24;
+      padding: 2.5rem 2rem 2rem;
+      text-align: center;
+    }
+
+    .logo-mark {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 52px;
+      height: 52px;
+      background: #F5C842;
+      border-radius: 14px;
+      margin-bottom: 1rem;
+      font-family: 'Lora', serif;
+      font-weight: 600;
+      font-size: 22px;
+      color: #2C2A24;
+      letter-spacing: -1px;
+    }
+
+    header h1 {
+      font-family: 'Lora', serif;
+      font-weight: 600;
+      font-size: 2rem;
+      color: #FDFAF5;
+      letter-spacing: -0.5px;
+    }
+
+    header p {
+      margin-top: 0.4rem;
+      font-size: 14px;
+      color: #9A9080;
+      font-weight: 300;
+      letter-spacing: 0.04em;
+    }
+
+    .container {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 3rem 2rem 5rem;
+    }
+
+    .effective-badge {
+      display: inline-block;
+      font-size: 12px;
+      font-weight: 500;
+      background: #F5C842;
+      color: #2C2A24;
+      padding: 4px 14px;
+      border-radius: 100px;
+      margin-bottom: 2.5rem;
+      letter-spacing: 0.03em;
+    }
+
+    .intro {
+      font-family: 'Lora', serif;
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #4A4840;
+      margin-bottom: 3rem;
+      padding-bottom: 2.5rem;
+      border-bottom: 1px solid #E8E2D6;
+    }
+
+    section {
+      margin-bottom: 2.5rem;
+      padding-bottom: 2.5rem;
+      border-bottom: 1px solid #E8E2D6;
+    }
+
+    section:last-of-type {
+      border-bottom: none;
+    }
+
+    h2 {
+      font-family: 'Lora', serif;
+      font-weight: 600;
+      font-size: 1.2rem;
+      color: #2C2A24;
+      margin-bottom: 0.9rem;
+      letter-spacing: -0.2px;
+    }
+
+    p {
+      font-size: 15px;
+      line-height: 1.8;
+      color: #4A4840;
+      margin-bottom: 0.9rem;
+    }
+
+    p:last-child { margin-bottom: 0; }
+
+    ul {
+      list-style: none;
+      padding: 0;
+      margin: 0.6rem 0;
+    }
+
+    ul li {
+      font-size: 15px;
+      line-height: 1.8;
+      color: #4A4840;
+      padding-left: 1.4rem;
+      position: relative;
+      margin-bottom: 0.3rem;
+    }
+
+    ul li::before {
+      content: '';
+      position: absolute;
+      left: 0;
+      top: 11px;
+      width: 5px;
+      height: 5px;
+      background: #F5C842;
+      border-radius: 50%;
+    }
+
+    .contact-box {
+      background: #2C2A24;
+      border-radius: 16px;
+      padding: 2rem 2.2rem;
+      margin-top: 3rem;
+    }
+
+    .contact-box h2 {
+      color: #FDFAF5;
+      margin-bottom: 0.7rem;
+    }
+
+    .contact-box p {
+      color: #9A9080;
+      margin-bottom: 0.5rem;
+    }
+
+    .contact-box a {
+      color: #F5C842;
+      text-decoration: none;
+      font-weight: 500;
+    }
+
+    .contact-box a:hover { text-decoration: underline; }
+
+    footer {
+      text-align: center;
+      padding: 2rem;
+      font-size: 12px;
+      color: #9A9080;
+      border-top: 1px solid #E8E2D6;
+    }
+
+    @media (max-width: 600px) {
+      header h1 { font-size: 1.5rem; }
+      .container { padding: 2rem 1.25rem 4rem; }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="logo-mark">Wc</div>
+    <h1>Word Cub</h1>
+    <p>Privacy Policy</p>
+  </header>
+
+  <div class="container">
+
+    <div class="effective-badge">Effective date: June 7, 2025</div>
+
+    <p class="intro">
+      Your privacy matters to us. This policy explains in plain language what information Word Cub collects when you play, how we use it, and what choices you have. We have kept things as simple as possible because we believe you deserve to understand exactly what is going on.
+    </p>
+
+    <section>
+      <h2>Who we are</h2>
+      <p>Word Cub is a word-guessing game developed and published as an independent app. If you have any questions about this policy or how your data is handled, you can reach us using the contact details at the bottom of this page.</p>
+    </section>
+
+    <section>
+      <h2>Information we do not collect</h2>
+      <p>We want to be upfront about this. Word Cub does not collect:</p>
+      <ul>
+        <li>Your name, email address, or any personal details</li>
+        <li>Your location</li>
+        <li>Photos, contacts, or any content from your device</li>
+        <li>Payment or financial information</li>
+        <li>Any information from children under the age of 13</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Information that may be collected automatically</h2>
+      <p>Like most apps, Word Cub may collect limited technical data automatically to help us keep the app running smoothly. This can include:</p>
+      <ul>
+        <li>Device type and operating system version</li>
+        <li>App version in use</li>
+        <li>General crash and performance data</li>
+        <li>Anonymous usage statistics such as how often the app is opened or which themes are played</li>
+      </ul>
+      <p>This data is anonymous and cannot be used to identify you personally. It is used solely to fix bugs, improve performance, and make the game better for everyone.</p>
+    </section>
+
+    <section>
+      <h2>Third party services</h2>
+      <p>Word Cub may use trusted third party tools to help with analytics or crash reporting. These services operate under their own privacy policies and only receive anonymous, aggregated data. We do not share any personally identifiable information with third parties, and we do not sell your data to anyone under any circumstances.</p>
+    </section>
+
+    <section>
+      <h2>Children's privacy</h2>
+      <p>Word Cub is designed to be enjoyed by players of all ages. We take children's privacy seriously and we do not knowingly collect any personal information from children under 13. The app does not require an account to play, does not include any social features, and does not display behavioural advertising.</p>
+      <p>If you are a parent or guardian and believe your child has provided us with personal information in any way, please contact us immediately and we will take steps to remove that information.</p>
+    </section>
+
+    <section>
+      <h2>Data storage and security</h2>
+      <p>Any data collected through the app is stored securely. We take reasonable steps to protect against unauthorised access, disclosure, or loss of information. Because we collect very minimal data to begin with, the risk to your privacy is kept as low as possible.</p>
+    </section>
+
+    <section>
+      <h2>Your game progress</h2>
+      <p>Your scores, streaks, and game progress are saved locally on your device. This information never leaves your device and is not accessible to us. If you delete the app, this data will be removed from your device as well.</p>
+    </section>
+
+    <section>
+      <h2>Changes to this policy</h2>
+      <p>We may update this privacy policy from time to time if the app changes in ways that affect how data is handled. When we do, we will update the effective date at the top of this page. We encourage you to check back occasionally. Continued use of the app after any changes means you are happy with the updated policy.</p>
+    </section>
+
+    <div class="contact-box">
+      <h2>Get in touch</h2>
+      <p>If you have any questions about this privacy policy or anything related to your data, we are happy to help.</p>
+      <p>Email us at <a href="mailto:hello@wordcub.app">hello@wordcub.app</a></p>
+    </div>
+
+  </div>
+
+  <footer>
+    &copy; 2025 Word Cub. All rights reserved.
+  </footer>
+
+</body>
+</html>
